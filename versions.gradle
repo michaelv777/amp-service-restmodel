@@ -1,0 +1,8 @@
+ext
+{
+	jaxb_api_version="2.3.1"
+	apache_commons_version="3.5"
+	jackson_core_version="2.10.0"
+	sl4jVersion="1.7.30"
+	log4j2Version="2.13.1"
+}
